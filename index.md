@@ -15,7 +15,7 @@
 ほげほげほげほげほげほげ**ほげ**[^注釈１]ほげ。注釈は強調されている部分に対するものということで。  
 ほげほげほげほげほげほげほげほげ。
 
-```xml:manifest.xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example"
@@ -53,7 +53,7 @@
 ほげほげほげほげほげほげほげほげ。  
 ほげほげほげほげほ**げほげ**[^注釈３]ほげほげ。
 
-```xml:manifest.xml
+```
 <path-permission
     android:pathPrefix="/"
     android:permission="android.permission.READ_CONTACTS">
