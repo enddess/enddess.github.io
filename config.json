@@ -3,5 +3,6 @@
     "lineBreaks": "gfm",
     "additionalFooterText": "&copy; ほげ Co., Ltd., ",
     "title": "ほげほげ",
-    "anchorCharacter": "¶"
+    "anchorCharacter": "¶",
+    "google_analytics": "UA-124809006-1"
 }
